@@ -1,0 +1,42 @@
+div.bloque1{
+
+   
+    background-color: yellow;
+    display: inline-block;
+    width: 33%;
+    height: 33%;
+}
+div.bloque2{
+
+   
+    background-color: blue;
+    display: inline-block;
+    width: 33%;
+    height: 33%;
+}
+div.bloque3{
+
+   
+    background-color: red;
+    display: inline-block;
+    width: 33%;
+    height: 33%;
+}
+div.bloque4{
+
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+div.bloque5{
+
+    background-color: green;
+}
+
+
+
+div.bloque7{
+
+    background-color: yellow;
+}
